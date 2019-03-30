@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dict>
+    <key>gameover1</key>
+    <string>游戏结束, P1胜！</string>
+    <key>gameover2</key>
+    <string>游戏结束, P2胜！</string>  
+    <key>replay</key>
+    <string>重玩</string>
+    <key>exit</key>
+    <string>退出</string>
+    <key>name</key>
+    <string>请输入您的名字</string>
+    <key>yes</key>
+    <string>确认</string>
+</dict>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dict>
+    <key>game</key>
+    <string>游戏说明</string>
+    <key>prop</key>
+    <string>道具说明</string>
+    <key>back</key>
+    <string>返回</string>
+    <key>power</key>
+    <string>增加炸弹威力</string>
+    <key>shoes</key>
+    <string>提升移动速度</string>
+    <key>number</key>
+    <string>增加炸弹个数</string>
+</dict>

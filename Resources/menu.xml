@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dict>
+    <key>start</key>
+    <string>开始游戏</string>
+    <key>rank</key>
+    <string>积分排行</string>
+    <key>description</key>
+    <string>游戏介绍</string>
+</dict>

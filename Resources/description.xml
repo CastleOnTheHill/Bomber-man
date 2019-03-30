@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dict>
+    <key>modela</key>
+    <string>单人模式</string>
+    <key>modelb</key>
+    <string>双人模式</string>
+    <key>move</key>
+    <string>移动</string>
+    <key>boom</key>
+    <string>放炸弹</string>
+    <key>playera</key>
+    <string>玩家1</string>
+    <key>playerb</key>
+    <string>玩家2</string>
+</dict>
