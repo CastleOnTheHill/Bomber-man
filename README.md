@@ -19,24 +19,24 @@
 
 1. 游戏菜单
 
-![start_menu](images\start.png)
+![start_menu](images/start.png)
 
 2. 道具说明
 
-![items](images\items.png)
+![items](images/items.png)
 
 3. 积分排行榜
 
-![rank](images\rank.png)
+![rank](images/rank.png)
 
 4. 操作说明
 
-![explain](images\explain.png)
+![explain](images/explain.png)
 
 5. 游戏场景
 
-![game_start](images\game_start.png)
+![game_start](images/game_start.png)
 
 6. 游戏结束
 
-![game_end](images\game_end)
+![game_end](images/game_end)
